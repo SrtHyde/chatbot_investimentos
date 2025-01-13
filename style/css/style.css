@@ -1,0 +1,13 @@
+.logo-style {
+    height: 100px;  /* Altura da logo */
+    width: auto;    /* Largura automática para manter a proporção */
+    background-color: transparent;  /* Removendo qualquer fundo */
+}
+
+.title-style {
+    font-size: 100px; /* Tamanho do título */
+    color: #ff007f; /* Cor personalizada */
+    font-weight: bold;
+    margin: auto
+
+}
